@@ -1,3 +1,3 @@
 *emacutiepp.github.io*
 # Welcome to Emma's Github
-(https://jhsportal.adnu.edu.ph)
+[AdNU JHS Portal](https://jhsportal.adnu.edu.ph)
