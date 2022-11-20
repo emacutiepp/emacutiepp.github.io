@@ -1,4 +1,6 @@
-*Welcome to Emma's Github*
+*Welcome to Emma's Github!*
+
+Today, we're going to talk about HFMD.
 # Hand, Foot, and Mouth Disease (HFMD)
 Hand, foot, and mouth disease is common in children under 5 years old, but anyone can get it. The illness is usually not serious, but it is very contagious. It spreads quickly at schools and day care centers. Transmission. Hand, foot, and mouth disease spreads easily.
 ![alt text](https://gleneagles.com.my/images/default-source/articles/1.jpg?Status=Master&sfvrsn=4cc1a4c9_1)
