@@ -26,9 +26,54 @@ See a healthcare provider if;
 - Your child is very young, especially younger than 6 months
 
 # Causes & Transmission of HFMD
+Hand, foot, and mouth disease spreads easily through
 
+Person-to-person contact
+Respiratory droplets containing virus particles when an infected person coughs or sneezes
+Contact with contaminated surfaces and objects
+Hand, foot, and mouth disease is contagious
+Hand, foot, and mouth disease is caused by viruses. A person infected with one of these viruses is contagious, which means that they can pass the virus to other people.
 
-# ✓ and 🗴 of HFMD
+The virus can spread to others through an infected person’s
+
+Nose and throat secretions, such as saliva, drool, or nasal mucus.
+Fluid from blisters or scabs.
+Feces (poop).
+People with hand, foot, and mouth disease are usually most contagious during the first week that they are sick. People can sometimes spread the virus to others for days or weeks after symptoms go away or if they have no symptoms at all.
+How it spreads
+You can get hand, foot, and mouth disease by
+
+Contact with respiratory droplets containing virus particles after a sick person coughs or sneezes
+Touching an infected person or making other close contact, like kissing, hugging, or sharing cups or eating utensils
+Touching an infected person’s feces, such as changing diapers, then touching your eyes, nose, or mouth
+Touching objects and surfaces that have the virus on them, like doorknobs or toys, then touching your eyes, nose, or mouth
+Rarely, you can also get the viruses by swallowing recreational water, such as water in swimming pools. This can happen if the water is not properly treated with chlorine and becomes contaminated with feces from a person who has hand, foot, and mouth disease.
+
+Hand, Foot, and Mouth Disease is Common
+HFMD is common and in the U.S. occurs mostly in the summer and fall, but you can get it any time of year.
+
+Because it is common and usually mild, children can continue to go to child care and schools as long as they:
+
+Have no fever.
+Have no uncontrolled drooling with mouth sores.
+Feel well enough to participate in classroom activities.
+Talk with your child’s healthcare provider if you are still not sure when it is okay for them to return. In some cases, the local health department may require children with HFMD to stay home to control an outbreak.
+
+Viruses that cause hand, foot, and mouth disease
+Hand, foot, and mouth disease is caused by viruses that belong to the Enterovirus family.
+
+Common causes of hand, foot, and mouth disease are:
+
+Coxsackievirus A16 is typically the most common cause of hand, foot, and mouth disease in the United States. Other coxsackieviruses can also cause the illness.
+Coxsackievirus A6 can also cause HFMD and the symptoms may be more severe.
+Enterovirus 71 (EV-A71) has been associated with cases and outbreaks in East and Southeast Asia. Although rare, EV-A71 has been associated with more severe diseases such as encephalitis (swelling of the brain).
+
+Animals do not get hand, foot, and mouth disease.
+
+Animals such as cattle, pigs, sheep, and goats can get foot and mouth disease (or hoof-and-mouth disease), which is different than hand, foot, and mouth disease.
+
+# Prevent Hand, Foot, and Mouth Disease (✓ and 🗴 of HFMD)
+
 - [x] **Wash your hands.**
 Wash your hands often with soap and water for at least 20 seconds. If soap and water are not available, use an alcohol-based hand sanitizer.
 
