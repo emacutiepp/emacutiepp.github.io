@@ -11,6 +11,7 @@ Symptoms of hand, foot, and mouth disease usually include fever, mouth sores, an
 | Fever and flu-like symptoms | Children often get a fever and other flu-like symptoms 3 to 5 days after they catch the virus. Symptoms can include: Fever, Eating or drinking less, Sore throat, and Feeling unwell |
 | Mouth sores | Your child can get painful mouth sores. These sores usually start as small red spots, often on the tongue and insides of the mouth, that blister and can become painful. Signs that swallowing might be painful for your child: (1) Not eating or drinking. (2) Drooling more than usual. (3) Only wanting to drink cold fluids. |
 | Skin rash | Your child can get a skin rash on the palms of the hands and soles of the feet. It can also show up on the buttocks, legs, and arms. The rash usually is not itchy and looks like flat or slightly raised red spots, sometimes with blisters that have an area of redness at their base. Fluid in the blister and the resulting scab that forms as the blister heals can contain the virus that causes hand, foot, and mouth disease. Keep blisters clean and avoid touching them. |
+
 # Treatment for Hand, Foot, and Mouth Disease
 
 Most people with hand, foot, and mouth disease get better on their own in 7 to 10 days. There is no specific medical treatment for hand, foot, and mouth disease. You can take steps to relieve symptoms and prevent dehydration while you or your child are sick. 
