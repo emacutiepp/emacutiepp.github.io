@@ -6,6 +6,7 @@ Hand, foot, and mouth disease is common in children under 5 years old, but anyon
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JpUMQRnvEH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 # Symptoms and Diagnosis of Hand, Foot, and Mouth Disease
 Symptoms of hand, foot, and mouth disease usually include fever, mouth sores, and skin rash. The rash is commonly found on the hands and feet. Hand, foot, and mouth disease is common in infants and children younger than 5 years old. Most children have mild symptoms for 7 to 10 days.
 
