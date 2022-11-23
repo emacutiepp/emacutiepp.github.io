@@ -3,7 +3,10 @@
 Let's talk about HFMD.
 # Hand, Foot, and Mouth Disease (HFMD)
 Hand, foot, and mouth disease is common in children under 5 years old, but anyone can get it. The illness is usually not serious, but it is very contagious. It spreads quickly at schools and day care centers. Transmission. Hand, foot, and mouth disease spreads easily.
+
 ![alt text](https://gleneagles.com.my/images/default-source/articles/1.jpg?Status=Master&sfvrsn=4cc1a4c9_1)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JpUMQRnvEH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Symptoms and Diagnosis of Hand, Foot, and Mouth Disease
 Symptoms of hand, foot, and mouth disease usually include fever, mouth sores, and skin rash. The rash is commonly found on the hands and feet. Hand, foot, and mouth disease is common in infants and children younger than 5 years old. Most children have mild symptoms for 7 to 10 days.
@@ -103,4 +106,3 @@ Avoid touching someone who has hand, foot, and mouth disease, such as hugging or
 
  Generally, you or your child may return to work or school once your blisters have dried up and all your symptoms have cleared. You can do these four checks to ensure that you or your child is fit to return to work or school: Check for fever. Check for blisters on palms of hands and arms.
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JpUMQRnvEH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
