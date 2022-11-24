@@ -1,7 +1,5 @@
 *Welcome to Emma's Github! 😀*
 
-**For more inquireies, kindly message me through email: erdenina@gbox.adnu.edu.ph**
-
 **November 24, 2022**
 
 -----------------------------------------------------
@@ -111,3 +109,6 @@ Avoid touching someone who has hand, foot, and mouth disease, such as hugging or
 
  Generally, you or your child may return to work or school once your blisters have dried up and all your symptoms have cleared. You can do these four checks to ensure that you or your child is fit to return to work or school: Check for fever. Check for blisters on palms of hands and arms.
  
+------------------------------------------------------------
+
+**For more inquireies, kindly message me through email: erdenina@gbox.adnu.edu.ph**
