@@ -1,7 +1,6 @@
 *Welcome to Emma's Github! 😀*
 
-**For more inquireies, kindly message me through:**
-**Email: erdenina@gbox.adnu.edu.ph**
+**For more inquireies, kindly message me through email: erdenina@gbox.adnu.edu.ph**
 
 **November 24, 2022**
 
