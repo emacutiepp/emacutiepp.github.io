@@ -84,7 +84,7 @@ Animals do not get hand, foot, and mouth disease.
 Animals such as cattle, pigs, sheep, and goats can get foot and mouth disease (or hoof-and-mouth disease), which is different than hand, foot, and mouth disease.
 
 # Prevent Hand, Foot, and Mouth Disease
-(✓ and 🗴 of HFMD)
+# (✓ and 🗴 of HFMD)
 
 - [x] **Wash your hands.**
 Wash your hands often with soap and water for at least 20 seconds. If soap and water are not available, use an alcohol-based hand sanitizer.
