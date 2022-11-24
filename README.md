@@ -10,6 +10,7 @@ Hand, foot, and mouth disease is common in children under 5 years old, but anyon
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JpUMQRnvEH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+----------------------------------------------------
 
 # Symptoms and Diagnosis of Hand, Foot, and Mouth Disease
 Symptoms of hand, foot, and mouth disease usually include fever, mouth sores, and skin rash. The rash is commonly found on the hands and feet. Hand, foot, and mouth disease is common in infants and children younger than 5 years old. Most children have mild symptoms for 7 to 10 days.
@@ -19,6 +20,8 @@ Symptoms of hand, foot, and mouth disease usually include fever, mouth sores, an
 | Fever and flu-like symptoms | Children often get a fever and other flu-like symptoms 3 to 5 days after they catch the virus. Symptoms can include: Fever, Eating or drinking less, Sore throat, and Feeling unwell |
 | Mouth sores | Your child can get painful mouth sores. These sores usually start as small red spots, often on the tongue and insides of the mouth, that blister and can become painful. Signs that swallowing might be painful for your child: (1) Not eating or drinking. (2) Drooling more than usual. (3) Only wanting to drink cold fluids. |
 | Skin rash | Your child can get a skin rash on the palms of the hands and soles of the feet. It can also show up on the buttocks, legs, and arms. The rash usually is not itchy and looks like flat or slightly raised red spots, sometimes with blisters that have an area of redness at their base. Fluid in the blister and the resulting scab that forms as the blister heals can contain the virus that causes hand, foot, and mouth disease. Keep blisters clean and avoid touching them. |
+
+-----------------------------------------------------
 
 # Treatment for Hand, Foot, and Mouth Disease
 
@@ -35,6 +38,8 @@ See a healthcare provider if;
 - Your child has a weakened immune system
 - Symptoms are severe
 - Your child is very young, especially younger than 6 months
+
+-----------------------------------------------------
 
 # Causes & Transmission of HFMD
 Hand, foot, and mouth disease spreads easily through
@@ -83,6 +88,8 @@ Animals do not get hand, foot, and mouth disease.
 
 Animals such as cattle, pigs, sheep, and goats can get foot and mouth disease (or hoof-and-mouth disease), which is different than hand, foot, and mouth disease.
 
+----------------------------------------------------------
+
 # Prevent Hand, Foot, and Mouth Disease
 # (✓ and 🗴 of HFMD)
 
@@ -105,6 +112,8 @@ Clean and disinfect frequently touched surfaces and shared items, including toys
 Avoid touching someone who has hand, foot, and mouth disease, such as hugging or kissing them.
 
 ![alt text](https://www.cdc.gov/hand-foot-mouth/images/mother-sick-daughter.jpg?_=97425)
+
+---------------------------------------------------------
 
 # How do I know if HFMD is getting better?
 
